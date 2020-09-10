@@ -1,16 +1,27 @@
-### :construction: Under construction :construction:
+🚧 Under construction 🚧
 
 <!--
-**sajmoni/sajmoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">
+  sajmoni
+</h1>
+<div>
+  JS
+  React
+  Elm
+</div>
+<h3>Projects</h3>
+<div display="flex">
+  <div align="center">
+    <a align="center" href="https://github.com/sajmoni/make-web-game">👾 make-web-game 👾</a>
+    <p align="center">CLI tool to generate a 2D browser game template</p>
+  </div>
+  <div align="center">
+    <a href="https://github.com/sajmoni/state-prism">state-prism</a>
+    <p>Subscribe to state changes</p>
+  </div>
+</div>
+<h3>Games</h3>
+rymdkraftverk.itch.io/
+<h3>Applications</h3>
+TODO
 -->
