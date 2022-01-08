@@ -1,4 +1,4 @@
-<h3 width="200px">Projects</h3>
+<h3>Projects</h3>
 
 <table>
 
