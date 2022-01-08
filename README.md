@@ -1,8 +1,4 @@
-<h1 align="center">
-  sajmoni
-</h1>
-
-<h2 align="center">Projects</h2>
+<h3 width="200px">Projects</h3>
 
 <table>
 
@@ -54,8 +50,7 @@
 
 </table>
 
-<h2 align="center">Media</h2>
+<h3>Media</h3>
 
-<div align="center">
 [Hitler reacts to functional programming](https://www.youtube.com/watch?v=ADqLBc1vFwIs)
-</div>
+
