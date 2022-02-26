@@ -48,9 +48,31 @@
 </td>
 </tr>
 
+<tr>
+<td>
+
+<div>
+  <div align="center">
+    <a align="center" href="https://github.com/sajmoni/awesome-web-dev">awesome-web-dev</a>
+    <p align="center">A list of awesome tools, libraries and apps for web developers</p>
+  </div>
+</div>
+
+</td>
+<td>
+
+<div>
+  <div align="center">
+    <a align="center" href="https://github.com/sajmoni/typed-ls">typed-ls</a>
+    <p align="center">Type-safe local storage</p>
+  </div>
+</div>
+
+</td>
+</tr>
+
 </table>
 
 <h3>Media</h3>
 
 [Hitler reacts to functional programming](https://www.youtube.com/watch?v=ADqLBc1vFwIs)
-
