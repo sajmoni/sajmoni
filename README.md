@@ -70,6 +70,29 @@
 
 </td>
 </tr>
+  
+<tr>
+<td>
+
+<div>
+  <div align="center">
+    <a align="center" href="https://github.com/sajmoni/nano-pool">nano-pool</a>
+    <p align="center">A tiny TypeScript object pool</p>
+  </div>
+</div>
+
+</td>
+<td>
+
+<div>
+  <div align="center">
+    <a align="center" href="https://github.com/sajmoni/vcr-2d">vcr-2d</a>
+    <p align="center">2d vector functions</p>
+  </div>
+</div>
+
+</td>
+</tr>
 
 </table>
 
