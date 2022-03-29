@@ -93,6 +93,28 @@
 
 </td>
 </tr>
+  
+  
+<tr>
+<td>
+
+<div>
+  <div align="center">
+    <a align="center" href="https://github.com/sajmoni/ink-filter-list">ink-filter-list</a>
+    <p align="center">ink component to pick or search in a list</p>
+  </div>
+</div>
+
+</td>
+<td>
+
+<div>
+  <div align="center">
+  </div>
+</div>
+
+</td>
+</tr>
 
 </table>
 
