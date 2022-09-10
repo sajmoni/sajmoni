@@ -1,0 +1,8 @@
+{
+  "name": "sajmoni",
+  "prettier": "prettier-config-one",
+  "devDependencies": {
+    "prettier": "2.7.1",
+    "prettier-config-one": "0.1.1"
+  }
+}
