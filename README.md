@@ -1,7 +1,7 @@
 <h2>Projects</h2>
 
-<h3>Command line tools</h3>
 <table>
+  <tr><td><h3>CLIs</h3></td></tr>
   <tr>
     <td>
       <div align="center">
@@ -16,10 +16,7 @@
       </div>
     </td>
   </tr>
-</table>
-
-<h3>Libraries</h3>
-<table>
+  <tr><td><h3>Libraries</h3></td></tr>
   <tr>
     <td>
       <div align="center">
@@ -62,11 +59,14 @@
       </div>
     </td>
   </tr>
-</table>
-
-<h3>Collections</h3>
-<table>
+  <tr><td><h3>Collections</h3></td></tr>
   <tr>
+    <td>
+      <div align="center">
+        <a align="center" href="https://github.com/sajmoni/better-vscode">better-vscode</a>
+        <p align="center">Tips and tricks for working with VS Code</p>
+      </div>
+    </td>
     <td>
       <div align="center">
         <a align="center" href="https://github.com/sajmoni/awesome-web-dev">awesome-web-dev</a>
@@ -74,10 +74,7 @@
       </div>
     </td>
   </tr>
-</table>
-
-<h3>Configs</h3>
-<table>
+  <tr><td><h3>Configs</h3></td></tr>
   <tr>
     <td>
       <div align="center">
@@ -93,6 +90,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 <h2>Media</h2>
 
