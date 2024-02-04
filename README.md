@@ -1,7 +1,7 @@
 <h2>✨ Projects</h2>
 
+<h3>🎨 Frameworks</h3>
 <table>
-  <tr><td><h3>🎨 Frameworks</h3></td></tr>
   <tr>
     <td>
       <div align="center">
@@ -10,7 +10,9 @@
       </div>
     </td>
   </tr>
-  <tr><td><h3>📟 CLIs</h3></td></tr>
+</table>
+<h3>📟 CLIs</h3>
+<table>
   <tr>
     <td>
       <div align="center">
@@ -47,7 +49,9 @@
       </div>
     </td>
   </tr>
-  <tr><td><h3>📚 Libraries</h3></td></tr>
+</table>
+<h3>📚 Libraries</h3>
+<table>
   <tr>
     <td>
       <div align="center">
@@ -98,7 +102,9 @@
       </div>
     </td>
   </tr>
-  <tr><td><h3>📋 Lists</h3></td></tr>
+</table>
+<h3>📋 Lists</h3>
+<table>
   <tr>
     <td>
       <div align="center">
@@ -113,7 +119,9 @@
       </div>
     </td>
   </tr>
-  <tr><td><h3>🔧 Configs</h3></td></tr>
+</table>
+<h3>🔧 Configs</h3>
+<table>
   <tr>
     <td>
       <div align="center">
